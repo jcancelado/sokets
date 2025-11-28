@@ -12,10 +12,13 @@ Este proyecto implementa un sistema de chat en tiempo real utilizando sockets y 
 
 * **Broadcasting:** Los mensajes enviados por un usuario son visibles para todos los demás conectados. Ejemplo de como se ve desde el celular
 <img width="1073" height="758" alt="image" src="https://github.com/user-attachments/assets/64fe5aa2-a9ca-4f1f-be5c-4ef39a87aa39" />
-## Codigo
-### servidor.py
+
+# Codigo
+
+## servidor.py
 <img width="379" height="601" alt="image" src="https://github.com/user-attachments/assets/0a5ac1ec-726d-4f74-a5c1-f1adab0d4fef" />
-### cliente.py
+
+## cliente.py
 <img width="340" height="432" alt="image" src="https://github.com/user-attachments/assets/c45b7f0c-e069-4d19-8692-efad78ea1a7b" />
 
 
